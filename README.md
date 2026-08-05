@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Vitor Santos 👋</h1>
 
 <p align="center">
-  <em>📊 Análise de Dados · 🐍 Python · 📈 R · 🤖 Machine Learning</em>
+  <em> Análise de Dados · Python · R · Machine Learning</em>
 </p>
 
 <p align="center">
@@ -11,17 +11,16 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 🔭 Construo projetos de **análise de dados**, **automação** e **machine learning**.
-- 🌱 Estudando e me aprofundando em **Data Science**: estatística com R, `pandas`, `scikit-learn` e NLP.
-- 🛠️ Gosto de transformar dados em decisões — de web scraping a modelos preditivos.
-- 💬 Pergunte-me sobre **Python**, **pandas**, **web scraping** e **visualização de dados**.
+- 🔭 Construo projetos de **análise, ciência e engenharia de dados**, **automação** e **machine learning**.
+- Estudando e me aprofundando em **Data Science**: estatística, `pandas`, `scikit-learn`, `NLP`... 
+- Gosto de transformar dados em decisões — de web scraping a modelos preditivos.
 - 📫 Contato: **vytorsantt@gmail.com**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -46,9 +45,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| 🏠 [**Meus-projetos**](https://github.com/VitorSantos-1/Meus-projetos) | Meu "lar de criatividade": scraping de preços, análise de sentimentos e estudos em R. | `Python` `R` `Selenium` `Streamlit` |
-| 🐼 [**biblioteca_pandas**](https://github.com/VitorSantos-1/biblioteca_pandas) | Case de varejo: métricas de negócio a partir de bases de vendas e clientes. | `pandas` `Plotly` `Jupyter` |
-| 🤖 [**MACHINE-LEARNING**](https://github.com/VitorSantos-1/MACHINE-LEARNING) | Modelo preditivo com Regressão Linear, do tratamento dos dados à avaliação. | `scikit-learn` `NumPy` |
+|  [**Meus-projetos**](https://github.com/VitorSantos-1/Meus-projetos) | Meu "lar de criatividade": scraping de preços, análise de sentimentos e estudos em R. | `Python` `R` `Selenium` `Streamlit` |
+| [**biblioteca_pandas**](https://github.com/VitorSantos-1/biblioteca_pandas) | Case de varejo: métricas de negócio a partir de bases de vendas e clientes. | `pandas` `Plotly` `Jupyter` |
+| [**MACHINE-LEARNING**](https://github.com/VitorSantos-1/MACHINE-LEARNING) | Modelo preditivo com Regressão Linear, do tratamento dos dados à avaliação. | `scikit-learn` `NumPy` |
 
 ---
 
