@@ -122,7 +122,7 @@ Profissional especializado na construção de soluções ponta a ponta orientada
 
 ---
 
-## ☁️ Automações em Nuvem & Dados Públicos
+## ☁️ Automações em Nuvem & Google Apps Script
 
 ### **Auditoria e Gestão de Vencimentos**
 * **Repositório:** [`auditoria-vencimentos-appsscript`](https://github.com/VitorSantos-1/auditoria-vencimentos-appsscript)
@@ -134,18 +134,22 @@ Profissional especializado na construção de soluções ponta a ponta orientada
 * **Stack:** JavaScript, Google Apps Script, HTML5/CSS3
 * **Descrição:** Suíte de ferramentas sem custo de infraestrutura que transforma planilhas em aplicações web interativas (CRUD), com telas customizadas para cadastro e controle dimensional de produtos.
 
+---
+
+## 🌐 Dados Públicos & Transparência
+
 ### **Pipeline ETL — Viagens de Servidores Públicos**
 * **Repositório:** [`analise-viagens-servidores-publicos`](https://github.com/VitorSantos-1/analise-viagens-servidores-publicos)
 * **Stack:** Python, Pandas, Open Data ETL
-* **Descrição:** Pipeline de extração e higienização de dados abertos governamentais referente a gastos com diárias e passagens de servidores públicos, consolidando indicadores de auditoria.
+* **Descrição:** Pipeline de extração, tratamento e higienização de dados abertos governamentais referente a gastos com diárias e passagens de servidores públicos, consolidando indicadores de auditoria.
 
 ---
 
 ## 📈 Estatísticas de Desenvolvimento
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=VitorSantos-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSantos-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorSantos-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorSantos-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
 </p>
 
 ---
