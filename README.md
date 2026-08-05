@@ -1,17 +1,17 @@
 <h1 align="center">Olá, eu sou o Vitor Santos 👋</h1>
 
 <p align="center">
-  <em> Ciência, Análise e Emgenharia de Dados · Python · </em>
+  <em> Análise de Dados · Python · R · Machine Learning</em>
 </p>
 
 <p align="center">
-  <b>Cientista de Dados em formação, apaixonado por transformar dados em decisão.</b>
+  <b>Analista de Dados em formação, apaixonado por transformar dados em decisão.</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/VitorSantos-1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:vytorsantt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/jose-vitor-santos-pinheiro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-santos-pinheiro-9630202b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -56,21 +56,23 @@
 
 ---
 
-## 📌 Projetos em destaque
+## 🔬 Ciência de Dados & Machine Learning
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-|  [**Meus-projetos**](https://github.com/VitorSantos-1/Meus-projetos) | Meu "lar de criatividade": scraping de preços, análise de sentimentos e estudos em R. | `Python` `R` `Selenium` `Streamlit` |
-| [**biblioteca_pandas**](https://github.com/VitorSantos-1/biblioteca_pandas) | Case de varejo: métricas de negócio a partir de bases de vendas e clientes. | `pandas` `Plotly` `Jupyter` |
-| [**Machine-Learning**](https://github.com/VitorSantos-1/MACHINE-LEARNING) | Modelo preditivo com Regressão Linear, do tratamento dos dados à avaliação. | `scikit-learn` `NumPy` |
+> Meu núcleo de **ciência de dados**: modelagem preditiva, NLP e análise exploratória.
+
+| Projeto | Tipo | Descrição | Tecnologias |
+|---------|------|-----------|-------------|
+| [**MACHINE-LEARNING**](https://github.com/VitorSantos-1/MACHINE-LEARNING) | 🤖 Modelo preditivo | Modelo de **Regressão Linear** ponta a ponta — do tratamento dos dados à avaliação do modelo. | `scikit-learn` `NumPy` |
+| [**Meus-projetos**](https://github.com/VitorSantos-1/Meus-projetos) | 🗣️ NLP | **Análise de sentimentos**, web scraping de preços e estudos em R. | `Python` `R` `Selenium` `Streamlit` |
+| [**biblioteca_pandas**](https://github.com/VitorSantos-1/biblioteca_pandas) | 📈 Análise / EDA | **Case de varejo**: métricas de negócio e análise exploratória a partir de bases de vendas e clientes. | `pandas` `Plotly` `Jupyter` |
 
 ---
 
-## Projetos de dados aplicados
+## 🚀 Projetos de dados aplicados
 
 > Soluções que construí para uma operação real de varejo. Os dados exibidos são **fictícios/anonimizados** — os reais são confidenciais e estão protegidos.
 
-**Dados · ETL · Bancos**
+**🔧 Engenharia de Dados · ETL · Bancos**
 | Projeto | Descrição |
 |---|---|
 | [etl-setorial-datawarehouse](https://github.com/VitorSantos-1/etl-setorial-datawarehouse) | ETL em Python → Data Warehouse MySQL (star schema) |
@@ -78,13 +80,13 @@
 | [analise-metas-previsibilidade](https://github.com/VitorSantos-1/analise-metas-previsibilidade) | Consolidação de metas × realizado com projeção |
 | [orcamento-excel-vba-python](https://github.com/VitorSantos-1/orcamento-excel-vba-python) | Orçamento automatizado (VBA + ETL Python/MySQL) |
 
-**Pipelines & IA**
+**🤖 Pipelines & IA**
 | Projeto | Descrição |
 |---|---|
 | [price-intelligence-pipeline](https://github.com/VitorSantos-1/price-intelligence-pipeline) | Inteligência de preços da concorrência (async + multi-LLM) |
 | [sistema-ofertas-mix](https://github.com/VitorSantos-1/sistema-ofertas-mix) | Pipeline de ofertas e mix de produtos (Python + Apps Script) |
 
-**Aplicações & Full-Stack**
+**🖥️ Aplicações & Full-Stack**
 | Projeto | Descrição |
 |---|---|
 | [nfe-recebimento-cpd](https://github.com/VitorSantos-1/nfe-recebimento-cpd) | Recebimento de NF-e (FastAPI + JWT + SQLite, empacotado .exe) |
@@ -92,14 +94,14 @@
 | [metrika-saas-analytics](https://github.com/VitorSantos-1/metrika-saas-analytics) | Micro-SaaS de dashboards (Next.js + Prisma + IA) |
 | [api-estoque-nodejs](https://github.com/VitorSantos-1/api-estoque-nodejs) | API REST de estoque (Node.js + Express + MySQL) |
 
-**Dashboards & BI**
+**📊 Dashboards & BI**
 | Projeto | Descrição |
 |---|---|
 | [dashboard-tendencia-trocas](https://github.com/VitorSantos-1/dashboard-tendencia-trocas) | Painel de tendência de trocas/devoluções |
 | [dashboard-analise-comercial](https://github.com/VitorSantos-1/dashboard-analise-comercial) | Ocorrências comerciais por loja/comprador/fornecedor |
 | [powerbi-paineis-gerenciais](https://github.com/VitorSantos-1/powerbi-paineis-gerenciais) | Painéis Power BI (Comercial · CPD · Trocas) + DAX |
 
-**Automação (Google Apps Script)**
+**⚙️ Automação (Google Apps Script)**
 | Projeto | Descrição |
 |---|---|
 | [auditoria-vencimentos-appsscript](https://github.com/VitorSantos-1/auditoria-vencimentos-appsscript) | Auditoria e gestão de vencimentos (prevenção de perdas) |
@@ -114,7 +116,7 @@
 
 ---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorSantos-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
