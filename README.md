@@ -1,132 +1,157 @@
-<h1 align="center">Olá, eu sou o Vitor Santos 👋</h1>
+# Vitor Santos
+
+**Cientista de Dados | Data Engineer | Software Developer**
+
+Profissional especializado na construção de soluções ponta a ponta orientadas a dados. Atuação focada no desenvolvimento de **Data Warehouses, pipelines de ETL assíncronos, inteligência de preços com IA, sistemas corporativos full-stack e automações operacionais**. Experiência sólida em transformar grandes volumes de dados em decisões estratégicas para operações de varejo e negócios.
+
+---
+
+## 🛠️ Ecossistema Tecnológico
+
+### **Data Science, IA & Estatística**
+* **Linguagens:** Python, R, SQL
+* **Manipulação & Análise:** Pandas, NumPy, Scikit-learn, Jupyter Notebooks
+* **IA & NLP:** Multi-LLM Pipelines, Engenharia de Prompts, Análise de Sentimentos
+* **Visualização:** Plotly, Matplotlib, Seaborn, Streamlit
+
+### **Engenharia de Dados & Bancos de Dados**
+* **Modelagem de Dados:** Star Schema (Fatos & Dimensões), Data Quality, Deduplicação, Hashing
+* **Bancos de Dados:** MySQL, PostgreSQL, SQLite, Supabase (RLS, Triggers)
+* **Pipelines & Extração:** ETL Assíncrono, Web Scraping (Selenium, Async Python), Dados Abertos
+
+### **Desenvolvimento Backend & Aplicações**
+* **Frameworks & Web:** FastAPI, Next.js, Node.js (Express), Prisma ORM
+* **Segurança & Distribuição:** Autenticação JWT, Pacotes Standalone (.exe via PyInstaller)
+* **Automação & Scripting:** Google Apps Script (JavaScript), VBA (Excel)
+
+---
+
+## 🔬 Ciência de Dados, IA & Inteligência de Mercado
+
+### **Price Intelligence Pipeline**
+* **Repositório:** [`price-intelligence-pipeline`](https://github.com/VitorSantos-1/price-intelligence-pipeline)
+* **Stack:** Python, Async Web Scraping, Multi-LLM, Pandas
+* **Descrição:** Pipeline assíncrono de inteligência competitiva para coleta, normalização e comparação de preços de mercado. Integra modelos de IA (Multi-LLM) para categorização automática de produtos e análise de variações de preço da concorrência.
+
+### **Modelo Preditivo de Machine Learning**
+* **Repositório:** [`Machine-learning`](https://github.com/VitorSantos-1/Machine-Learning)
+* **Stack:** Python, Scikit-learn, NumPy, Pandas
+* **Descrição:** Projeto completo de modelagem preditiva utilizando Regressão Linear. Abrange todo o ciclo de vida da Ciência de Dados: pré-processamento de variáveis, engenharia de atributos (feature engineering), treino, validação e avaliação estatística de métricas de erro.
+
+### **Projetos Exploratórios & NLP**
+* **Repositório:** [`Meus-projetos`](https://github.com/VitorSantos-1/Meus-projetos)
+* **Stack:** Python, R, Selenium, Streamlit
+* **Descrição:** Suíte de experimentação em análise de dados e NLP. Inclui algoritmos de análise de sentimentos para feedback de clientes, coletores de dados web e análises estatísticas em linguagem R com interfaces interativas em Streamlit.
+
+---
+
+## 🏗️ Engenharia de Dados, ETL & Data Warehousing
+
+### **ETL Setorial & Data Warehouse MySQL**
+* **Repositório:** [`etl-setorial-datawarehouse`](https://github.com/VitorSantos-1/etl-setorial-datawarehouse)
+* **Stack:** Python, MySQL, Pandas, Data Modeling
+* **Descrição:** Pipeline de ETL responsável por ingerir, tratar e estruturar dados operacionais corporativos em um Data Warehouse relacional (modelado em *Star Schema* com tabelas Fato e Dimensão), viabilizando consultas analíticas de alta performance.
+
+### **Tratamento de Dados, Deduplicação & Data Quality**
+* **Repositório:** [`trocas-db-etl-dataquality`](https://github.com/VitorSantos-1/trocas-db-etl-dataquality)
+* **Stack:** Python, SQL, Hashing Algorithms, Data Quality
+* **Descrição:** Sistema de banco de dados e ingestão focado na garantia da qualidade de dados (Data Quality). Implementa rotinas de criptografia/hashing para validação de unicidade, remoção de inconsistências e deduplicação automatizada de registros de trocas.
+
+### **Consolidação de Metas & Análise de Previsibilidade**
+* **Repositório:** [`analise-metas-previsibilidade`](https://github.com/VitorSantos-1/analise-metas-previsibilidade)
+* **Stack:** Python, Pandas, Matplotlib, Forecasting
+* **Descrição:** Algoritmo de consolidação entre Metas Planejadas vs. Resultados Realizados. Aplica técnicas estatísticas para projeção de tendências de vendas, identificação de sazonalidade e análise de desvios para suporte à tomada de decisão executiva.
+
+### **Pipeline de Ofertas & Otimização de Mix**
+* **Repositório:** [`sistema-ofertas-mix`](https://github.com/VitorSantos-1/sistema-ofertas-mix)
+* **Stack:** Python, Google Apps Script, REST APIs
+* **Descrição:** Pipeline automatizado para simulação, seleção e tabulação de produtos em oferta. Cruza dados de giro de estoque com margens operacionais para recomendar o mix ideal de produtos promocionais.
+
+### **Automação Orçamentária Multi-Camada**
+* **Repositório:** [`orcamento-excel-vba-python`](https://github.com/VitorSantos-1/orcamento-excel-vba-python)
+* **Stack:** Python, MySQL, VBA, Microsoft Excel
+* **Descrição:** Solução de engenharia de processos que conecta planilhas operacionais em VBA a um repositório central em MySQL através de scripts de tratamento ETL em Python, eliminando conciliações manuais.
+
+---
+
+## 💻 Aplicações Corporativas, Full-Stack & Backend
+
+### **Sistema Full-Stack de Recebimento de NF-e (CPD)**
+* **Repositório:** [`nfe-recebimento-cpd`](https://github.com/VitorSantos-1/nfe-recebimento-cpd)
+* **Stack:** Python, FastAPI, SQLite, JWT Authentication, PyInstaller
+* **Descrição:** Aplicação completa para recepção e conferência de Notas Fiscais Eletrônicas em centros de distribuição. Possui controle de acesso via tokens JWT e foi estruturada para compilação em arquivo executável (.exe) standalone, dispensando servidores web dedicados.
+
+### **Sistema de Cotação de Fornecedores**
+* **Repositório:** [`cotacao-fornecedores-supabase`](https://github.com/VitorSantos-1/cotacao-fornecedores-supabase)
+* **Stack:** PostgreSQL, Supabase, Row Level Security (RLS), Triggers
+* **Descrição:** Arquitetura de banco de dados relacional em Supabase para gestão de cotações com múltiplos fornecedores. Utiliza políticas estritas de segurança RLS (Row Level Security) e *triggers* automáticos para auditoria de preços e histórico de negociações.
+
+### **Metrika — SaaS Analytics & Dashboards**
+* **Repositório:** [`metrika-saas-analytics`](https://github.com/VitorSantos-1/metrika-saas-analytics)
+* **Stack:** Next.js, Prisma ORM, TypeScript, OpenAI API
+* **Descrição:** Plataforma Micro-SaaS para geração autônoma de dashboards e métricas gerenciais. Conecta-se a bases relacionais e utiliza IA para síntese de relatórios executivos e visualização dinâmica.
+
+### **API REST de Gestão de Estoque**
+* **Repositório:** [`api-estoque-nodejs`](https://github.com/VitorSantos-1/api-estoque-nodejs)
+* **Stack:** Node.js, Express, MySQL, JavaScript
+* **Descrição:** API RESTful estruturada para controle transacional de estoques. Oferece rotas otimizadas para manipulação de inventário, entradas/saídas e validação de regras de negócio em banco MySQL.
+
+---
+
+## 📊 Business Intelligence & Análise Exploratória (EDA)
+
+### **Painéis Gerenciais Corporativos em Power BI**
+* **Repositório:** [`powerbi-paineis-gerenciais`](https://github.com/VitorSantos-1/powerbi-paineis-gerenciais)
+* **Stack:** Power BI, DAX Avançado, Modelagem Dimensional
+* **Descrição:** Coleção de relatórios e painéis interativos focados nas verticais de Vendas Comerciais, Performance Operacional de CPD e Gestão de Trocas, utilizando fórmulas DAX complexas para análise temporal e comparativos (YoY/MoM).
+
+### **Painel de Tendência de Trocas & Devoluções**
+* **Repositório:** [`dashboard-tendencia-trocas`](https://github.com/VitorSantos-1/dashboard-tendencia-trocas)
+* **Stack:** Power BI, SQL, Python
+* **Descrição:** Dashboard analítico focado em Prevenção de Perdas. Monitora os principais motivos de trocas, comportamento de devoluções por filial e impacto financeiro nos resultados operacionais.
+
+### **Análise Comercial de Ocorrências**
+* **Repositório:** [`dashboard-analise-comercial`](https://github.com/VitorSantos-1/dashboard-analise-comercial)
+* **Stack:** Power BI, Excel, SQL
+* **Descrição:** Solução de BI para mapeamento de divergências comerciais organizadas por loja, comprador e fornecedor, permitindo identificação rápida de gargalos de atendimento e entrega.
+
+### **Análise Exploratória em Varejo (Case EDA)**
+* **Repositório:** [`Analise-varejo`](https://github.com/VitorSantos-1/biblioteca_pandas)
+* **Stack:** Python, Pandas, Plotly, Jupyter
+* **Descrição:** Análise Exploratória de Dados (EDA) aprofundada sobre comportamento de consumo, identificando padrões de recompra, curva ABC de produtos e distribuição geográfica de clientes.
+
+---
+
+## ☁️ Automações em Nuvem & Dados Públicos
+
+### **Auditoria e Gestão de Vencimentos**
+* **Repositório:** [`auditoria-vencimentos-appsscript`](https://github.com/VitorSantos-1/auditoria-vencimentos-appsscript)
+* **Stack:** Google Apps Script, JavaScript, Google Sheets API
+* **Descrição:** Automação em nuvem para fiscalização e alerta antecipado de validade de produtos nas prateleiras, auxiliando na redução de quebras e desperdícios operacionais.
+
+### **Sistemas de Estoque & Web Apps em Sheets**
+* **Repositórios:** [`sistema-estoque-appsscript`](https://github.com/VitorSantos-1/sistema-estoque-appsscript) | [`webapp-produtos-appsscript`](https://github.com/VitorSantos-1/webapp-produtos-appsscript) | [`automacoes-google-apps-script`](https://github.com/VitorSantos-1/automacoes-google-apps-script)
+* **Stack:** JavaScript, Google Apps Script, HTML5/CSS3
+* **Descrição:** Suíte de ferramentas sem custo de infraestrutura que transforma planilhas em aplicações web interativas (CRUD), com telas customizadas para cadastro e controle dimensional de produtos.
+
+### **Pipeline ETL — Viagens de Servidores Públicos**
+* **Repositório:** [`analise-viagens-servidores-publicos`](https://github.com/VitorSantos-1/analise-viagens-servidores-publicos)
+* **Stack:** Python, Pandas, Open Data ETL
+* **Descrição:** Pipeline de extração e higienização de dados abertos governamentais referente a gastos com diárias e passagens de servidores públicos, consolidando indicadores de auditoria.
+
+---
+
+## 📈 Estatísticas de Desenvolvimento
 
 <p align="center">
-  <em> Ciência, análise de Dados · Python · R · Machine Learning</em>
-</p>
-
-<p align="center">
-  <b>Cientista de Dados em formação, apaixonado por transformar dados em decisão.</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VitorSantos-1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:vytorsantt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-santos-pinheiro-9630202b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=VitorSantos-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSantos-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
 </p>
 
 ---
 
-## Sobre mim
+## 📬 Contato & Conexões
 
-- 🔭 Construo projetos de **análise, ciência e engenharia de dados**, **automação** e **machine learning**.
-- Estudando e me aprofundando em **Data Science**: estatística, `pandas`, `scikit-learn`, `NLP`... 
-- Gosto de transformar dados em decisões — de web scraping a modelos preditivos.
-- 📫 Contato: **vytorsantt@gmail.com**
-
----
-
-## Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" alt="Google Apps Script"/>
-</p>
-
----
-
-## 🔬 Ciência de Dados & Machine Learning
-
-> Meu núcleo de **ciência de dados**: modelagem preditiva, NLP e análise exploratória.
-
-| Projeto | Tipo | Descrição | Tecnologias |
-|---------|------|-----------|-------------|
-| [**Machine-learning**](https://github.com/VitorSantos-1/Machine-Learning) | Modelo preditivo | Modelo de **Regressão Linear** ponta a ponta — do tratamento dos dados à avaliação do modelo. | `scikit-learn` `NumPy` |
-| [**Meus-projetos**](https://github.com/VitorSantos-1/Meus-projetos) | NLP | **Análise de sentimentos**, web scraping de preços e estudos em R. | `Python` `R` `Selenium` `Streamlit` |
-| [**Analise-varejo**](https://github.com/VitorSantos-1/biblioteca_pandas) | Análise / EDA | **Case de varejo**: métricas de negócio e análise exploratória a partir de bases de vendas e clientes. | `pandas` `Plotly` `Jupyter` |
-
----
-
-## 🚀 Projetos de dados aplicados
-
-> Soluções que construí para uma operação real de varejo. Os dados exibidos são **fictícios/anonimizados** — os reais são confidenciais e estão protegidos.
-
-**Dados · ETL · Bancos**
-| Projeto | Descrição |
-|---|---|
-| [etl-setorial-datawarehouse](https://github.com/VitorSantos-1/etl-setorial-datawarehouse) | ETL em Python → Data Warehouse MySQL (star schema) |
-| [trocas-db-etl-dataquality](https://github.com/VitorSantos-1/trocas-db-etl-dataquality) | Banco de trocas com hash, deduplicação e qualidade de dados |
-| [analise-metas-previsibilidade](https://github.com/VitorSantos-1/analise-metas-previsibilidade) | Consolidação de metas × realizado com projeção |
-| [orcamento-excel-vba-python](https://github.com/VitorSantos-1/orcamento-excel-vba-python) | Orçamento automatizado (VBA + ETL Python/MySQL) |
-
-**Pipelines & IA**
-| Projeto | Descrição |
-|---|---|
-| [price-intelligence-pipeline](https://github.com/VitorSantos-1/price-intelligence-pipeline) | Inteligência de preços da concorrência (async + multi-LLM) |
-| [sistema-ofertas-mix](https://github.com/VitorSantos-1/sistema-ofertas-mix) | Pipeline de ofertas e mix de produtos (Python + Apps Script) |
-
-**Aplicações & Full-Stack**
-| Projeto | Descrição |
-|---|---|
-| [nfe-recebimento-cpd](https://github.com/VitorSantos-1/nfe-recebimento-cpd) | Recebimento de NF-e (FastAPI + JWT + SQLite, empacotado .exe) |
-| [cotacao-fornecedores-supabase](https://github.com/VitorSantos-1/cotacao-fornecedores-supabase) | Cotação de fornecedores (PostgreSQL/Supabase, RLS, triggers) |
-| [metrika-saas-analytics](https://github.com/VitorSantos-1/metrika-saas-analytics) | Micro-SaaS de dashboards (Next.js + Prisma + IA) |
-| [api-estoque-nodejs](https://github.com/VitorSantos-1/api-estoque-nodejs) | API REST de estoque (Node.js + Express + MySQL) |
-
-**📊 Dashboards & BI**
-| Projeto | Descrição |
-|---|---|
-| [dashboard-tendencia-trocas](https://github.com/VitorSantos-1/dashboard-tendencia-trocas) | Painel de tendência de trocas/devoluções |
-| [dashboard-analise-comercial](https://github.com/VitorSantos-1/dashboard-analise-comercial) | Ocorrências comerciais por loja/comprador/fornecedor |
-| [powerbi-paineis-gerenciais](https://github.com/VitorSantos-1/powerbi-paineis-gerenciais) | Painéis Power BI (Comercial · CPD · Trocas) + DAX |
-
-**Automação (Google Apps Script)**
-| Projeto | Descrição |
-|---|---|
-| [auditoria-vencimentos-appsscript](https://github.com/VitorSantos-1/auditoria-vencimentos-appsscript) | Auditoria e gestão de vencimentos (prevenção de perdas) |
-| [sistema-estoque-appsscript](https://github.com/VitorSantos-1/sistema-estoque-appsscript) | Controle de estoque dimensional em Sheets |
-| [webapp-produtos-appsscript](https://github.com/VitorSantos-1/webapp-produtos-appsscript) | Web app CRUD de produtos |
-| [automacoes-google-apps-script](https://github.com/VitorSantos-1/automacoes-google-apps-script) | Coletânea de automações para planilhas |
-
-**🌐 Dados Públicos**
-| Projeto | Descrição |
-|---|---|
-| [analise-viagens-servidores-publicos](https://github.com/VitorSantos-1/analise-viagens-servidores-publicos) | ETL de dados abertos (viagens de servidores) |
-
----
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorSantos-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSantos-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
-</p>
-
----
-
-<p align="center">
-  <em>"Meu lar de criatividade." ✨</em>
-</p>
-
----
+* **LinkedIn:** [José Vitor Santos Pinheiro](https://www.linkedin.com/in/jos%C3%A9-vitor-santos-pinheiro-9630202b3)
+* **E-mail:** vytorsantt@gmail.com
+* **GitHub:** [@VitorSantos-1](https://github.com/VitorSantos-1)
