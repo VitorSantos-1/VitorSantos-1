@@ -1,8 +1,8 @@
 # Vitor Santos
 
-**Cientista de Dados | Data Engineer | Software Developer**
+**Data scientist | Data engineer | Data analyst | Business automation**
 
-Profissional especializado na construção de soluções ponta a ponta orientadas a dados. Atuação focada no desenvolvimento de **Data Warehouses, pipelines de ETL assíncronos, inteligência de preços com IA, sistemas corporativos full-stack e automações operacionais**. Experiência sólida em transformar grandes volumes de dados em decisões estratégicas para operações de varejo e negócios.
+Profissional na area de dados com construções reais de soluções ponta a ponta orientadas a dados. Atuação focada no desenvolvimento de **Data Warehouses, Data mart, pipelines de ETL, Machine-learning,  inteligência de preços, pequenos sistemas e automações operacionais**. Experiência sólida em transformar grandes volumes de dados em decisões estratégicas para operações de varejo e negócios.
 
 ---
 
@@ -145,7 +145,7 @@ Profissional especializado na construção de soluções ponta a ponta orientada
 
 ---
 
-## 📈 Estatísticas de Desenvolvimento
+## Estatísticas de Desenvolvimento
 
 <p align="center">
   <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorSantos-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
@@ -156,6 +156,6 @@ Profissional especializado na construção de soluções ponta a ponta orientada
 
 ## 📬 Contato & Conexões
 
-* **LinkedIn:** [José Vitor Santos Pinheiro](https://www.linkedin.com/in/jos%C3%A9-vitor-santos-pinheiro-9630202b3)
+* **LinkedIn:** [José Vitor Santos Pinheiro](https://www.linkedin.com/in/jose-vitor-santos-pinheiro)
 * **E-mail:** vytorsantt@gmail.com
 * **GitHub:** [@VitorSantos-1](https://github.com/VitorSantos-1)
