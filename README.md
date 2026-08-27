@@ -1,11 +1,11 @@
 # José Vitor Santos Pinheiro
 
-**Análise de Dados e Inteligência Comercial — Varejo e Supply Chain**
+**Análise de Dados e Inteligência Comercial - Varejo e Supply Chain**
 
 Trabalho no cruzamento entre visão de negócio no varejo, analise, ciência quando necessário e engenharia de dados prática. Transformo
-processos manuais de compras, comercial e estoque em esteiras de dados automatizadas — de scrapers de
-monitoramento de preços a Data Warehouses dimensionais e painéis de decisão — sempre traduzindo a
-técnica em impacto: margem protegida, perda evitada e decisão mais rápida.
+processos manuais de compras, comercial e estoque em esteiras de dados automatizadas, de scrapers de
+monitoramento de preços a Data Warehouses dimensionais e painéis de decisão, sempre traduzindo a
+técnica em impacto: margem, perda evitada e decisão mais rápida.
 
 - Foco em **varejo e supply chain**: preço, margem, CMV, curva ABC, giro, ruptura, sell-out e dead stock.
 - Da coleta ao painel: **ETL, modelagem dimensional (star schema), SQL, automação e visualização**.
