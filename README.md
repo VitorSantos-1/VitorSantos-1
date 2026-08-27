@@ -2,10 +2,10 @@
 
 **Análise de Dados e Inteligência Comercial — Varejo e Supply Chain**
 
-Trabalho no cruzamento entre visão de negócio no varejo e engenharia de dados prática. Transformo
-processos manuais de compras, comercial e estoque em esteiras de dados automatizadas — de scrapers de
-monitoramento de preços a Data Warehouses dimensionais e painéis de decisão — sempre traduzindo a
-técnica em impacto: margem protegida, perda evitada e decisão mais rápida.
+Trabalho no cruzamento entre visão de negócio no varejo, análise, ciência(quando necessário) e engenharia de dados prática. Transformo
+processos manuais de compras, comercial e estoque em esteiras de dados automatizadas, de scrapers de
+monitoramento de preços a Data Warehouses dimensionais e painéis de decisão, sempre traduzindo a
+técnica em impacto: margem, perda evitada e decisão mais rápida.
 
 - Foco em **varejo e supply chain**: preço, margem, CMV, curva ABC, giro, ruptura, sell-out e dead stock.
 - Da coleta ao painel: **ETL, modelagem dimensional (star schema), SQL, automação e visualização**.
@@ -37,10 +37,10 @@ técnica em impacto: margem protegida, perda evitada e decisão mais rápida.
 
 ## Competências técnicas
 
-- **Linguagens:** Python, SQL, JavaScript/TypeScript, VBA, R.
+- **Linguagens:** Python, SQL, VBA, R.
 - **Dados e ETL:** Pandas, SQLAlchemy, modelagem dimensional (star schema), qualidade de dados.
 - **Bancos:** MySQL, PostgreSQL/Supabase, SQLite.
-- **BI e visualização:** Power BI (DAX, Power Query), Recharts, Plotly, Matplotlib.
+- **BI e visualização:** Power BI (DAX, Power Query), Plotly, Matplotlib.
 - **Aplicações:** FastAPI, Node.js/Express, Next.js, Google Apps Script.
 - **Automação e IA:** web scraping (Playwright/Selenium), integração com múltiplos LLMs.
 
