@@ -8,7 +8,7 @@
 
   <br/><br/>
 
-  <!-- Badges de Contato e Foco (Sem sublinhado de link) -->
+  <!-- Badges de Contato e Foco -->
   <a href="mailto:vytorsantt@gmail.com"><img src="https://img.shields.io/badge/Email-vytorsantt%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/VitorSantos-1"><img src="https://img.shields.io/badge/GitHub-VitorSantos--1-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" /></a>&nbsp;<img src="https://img.shields.io/badge/Foco-Analytics%20Engineering%20%26%20BI-0F172A?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Foco" />
 
 </div>
@@ -19,41 +19,7 @@
 
 ### // 01. Sobre Mim & Visão Estratégica
 
-```typescript
-interface DataProfessionalProfile {
-  name: string;
-  role: string;
-  specialization: string[];
-  coreCompetencies: string[];
-  dataStack: string[];
-  contact: string;
-}
-
-const vitorSantos: DataProfessionalProfile = {
-  name: "José Vitor Santos Pinheiro",
-  role: "Analytics Engineer & Especialista em Inteligência de Dados",
-  specialization: [
-    "Engenharia e Modelagem de Dados",
-    "Business Intelligence Executivo",
-    "Inteligência Comercial & Precificação",
-    "Automações e Aplicações Analíticas"
-  ],
-  coreCompetencies: [
-    "Construção de Pipelines ETL e Data Warehouses Dimensionais",
-    "Otimização de Margem, Custos e Prevenção de Perdas Operacionais",
-    "Automação de Esteiras de Coleta, Auditoria e Validação de Dados",
-    "Desenvolvimento de Painéis de Decisão e Aplicações com IA"
-  ],
-  dataStack: [
-    "Python, SQL, Star Schema, Power BI, DAX",
-    "PostgreSQL, MySQL, Supabase, FastAPI, Node.js",
-    "Playwright, Selenium, Docker, Git, AI Agents"
-  ],
-  contact: "vytorsantt@gmail.com"
-};
-```
-
-Trabalho na convergência entre visão analítica de negócio, ciência de dados aplicada e engenharia prática. Minha atuação foca em transformar processos manuais, operacionais e dispersos em esteiras de dados automatizadas e escaláveis — desde pipelines de ingestão e Data Warehouses dimensionais (*Star Schema*) até dashboards executivos que aceleram decisões e maximizam resultados financeiros (proteção de margem, prevenção de perdas e ganho de escala).
+Trabalho no cruzamento entre visão analítica de negócio, ciência de dados aplicada e engenharia prática. Minha atuação foca em transformar processos manuais, operacionais e dispersos em esteiras de dados automatizadas e escaláveis — desde pipelines de ingestão e Data Warehouses dimensionais (*Star Schema*) até dashboards executivos que aceleram decisões e maximizam resultados financeiros (proteção de margem, prevenção de perdas e ganho de escala).
 
 - **Engenharia e Modelagem de Dados:** Estruturação de pipelines ETL com cargas idempotentes, governança, deduplicação e Data Warehouses relacionais (MySQL / PostgreSQL / Supabase).
 - **Business Intelligence & Tomada de Decisão:** Modelagem dimensional e relatórios analíticos em Power BI voltados a responder com clareza aos indicadores operacionais e diretivos.
