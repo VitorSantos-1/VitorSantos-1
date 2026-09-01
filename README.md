@@ -6,16 +6,10 @@
   <!-- Terminal Typing Animado -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=680&lines=Analytics%20Engineering%20%26%20Modelagem%20Dimensional;Business%20Intelligence%20%26%20Pain%C3%A9is%20Executivos;Esteiras%20ETL%2C%20Data%20Warehouses%20%26%20SQL;Automa%C3%A7%C3%A3o%20de%20Processos%20com%20Python%20%26%20IA;Intelig%C3%AAncia%20Comercial%20%26%20Otimiza%C3%A7%C3%A3o%20de%20Margem" alt="Typing Animation" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Badges de Contato e Foco -->
-  <a href="mailto:vytorsantt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vytorsantt%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/VitorSantos-1">
-    <img src="https://img.shields.io/badge/GitHub-VitorSantos--1-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Foco-Analytics%20Engineering%20%26%20BI-0F172A?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Foco" />
+  <!-- Badges de Contato e Foco (Sem sublinhado de link) -->
+  <a href="mailto:vytorsantt@gmail.com"><img src="https://img.shields.io/badge/Email-vytorsantt%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/VitorSantos-1"><img src="https://img.shields.io/badge/GitHub-VitorSantos--1-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" /></a>&nbsp;<img src="https://img.shields.io/badge/Foco-Analytics%20Engineering%20%26%20BI-0F172A?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Foco" />
 
 </div>
 
