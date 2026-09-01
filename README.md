@@ -33,21 +33,36 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 ### // 02. Stack Tecnológica & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nextjs,postgres,mysql,sqlite,supabase,docker,git,githubactions,linux,vscode,r,powershell&perline=8&theme=dark" alt="Tech Stack" />
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" /></a>
+  <a href="https://www.sqlite.org" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite" /></a>
+  <a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" /></a>
+  <br/>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions" /></a>
+  <a href="https://www.kernel.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" /></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>
+  <a href="https://www.r-project.org" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=dark" width="48" height="48" alt="R" /></a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="48" height="48" alt="PowerShell" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX%20%2F%20Power%20Query-2563EB?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Star%20Schema%20DW-0284C7?style=flat-square&logo=snowflake&logoColor=white" alt="Data Warehouse" />
-  <img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+  <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /></a>
+  <a href="https://learn.microsoft.com/dax/" target="_blank"><img src="https://img.shields.io/badge/DAX%20%2F%20Power%20Query-2563EB?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" /></a>
+  <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="https://www.sqlalchemy.org" target="_blank"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /></a>
+  <a href="https://playwright.dev" target="_blank"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /></a>
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" /></a>
+  <a href="https://learn.microsoft.com/office/vba/api/overview/excel" target="_blank"><img src="https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" /></a>
+  <a href="https://github.com/VitorSantos-1/etl-setorial-datawarehouse" target="_blank"><img src="https://img.shields.io/badge/Star%20Schema%20DW-0284C7?style=flat-square&logo=snowflake&logoColor=white" alt="Data Warehouse" /></a>
+  <a href="https://github.com/VitorSantos-1/price-intelligence-pipeline" target="_blank"><img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" /></a>
 </div>
 
 <br/>
@@ -129,8 +144,8 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 
 <div align="center">
 
-  <!-- Contador de Visitas Minimalista -->
-  <img src="https://komarev.com/ghpvc/?username=VitorSantos-1&color=0284C7&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" />
+  <!-- Contador de Visitas Minimalista (Clicável) -->
+  <a href="https://github.com/VitorSantos-1" target="_blank"><img src="https://komarev.com/ghpvc/?username=VitorSantos-1&color=0284C7&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" /></a>
 
   <br/><br/>
 
