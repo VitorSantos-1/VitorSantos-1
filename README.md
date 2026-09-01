@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Banner Superior Animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0F172A,80:1E293B,100:0284C7&height=220&section=header&text=Jos%C3%A9%20Vitor%20Santos%20Pinheiro&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Analytics%20Engineer%20%7C%20Business%20Intelligence%20%7C%20Engenharia%20de%20Dados&descAlignY=58&descSize=16&descColor=38BDF8" width="100%" alt="Header Banner" />
+  <!-- Banner Superior Animado (Cyber / Electric Blue Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0F2744,70:0284C7,100:38BDF8&height=220&section=header&text=Jos%C3%A9%20Vitor%20Santos%20Pinheiro&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Analytics%20Engineer%20%7C%20Business%20Intelligence%20%7C%20Engenharia%20de%20Dados&descAlignY=58&descSize=16&descColor=38BDF8" width="100%" alt="Header Banner" />
 
-  <!-- Terminal Typing Animado -->
+  <!-- Terminal Typing Animado (Electric Cyan) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=680&lines=Analytics%20Engineering%20%26%20Modelagem%20Dimensional;Business%20Intelligence%20%26%20Pain%C3%A9is%20Executivos;Esteiras%20ETL%2C%20Data%20Warehouses%20%26%20SQL;Automa%C3%A7%C3%A3o%20de%20Processos%20com%20Python%20%26%20IA;Intelig%C3%AAncia%20Comercial%20%26%20Otimiza%C3%A7%C3%A3o%20de%20Margem" alt="Typing Animation" />
 
   <br/><br/>
 
-  <!-- Badges de Contato e Foco -->
-  <a href="mailto:vytorsantt@gmail.com"><img src="https://img.shields.io/badge/Email-vytorsantt%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/VitorSantos-1"><img src="https://img.shields.io/badge/GitHub-VitorSantos--1-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" /></a>&nbsp;<img src="https://img.shields.io/badge/Foco-Analytics%20Engineering%20%26%20BI-0F172A?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Foco" />
+  <!-- Badges de Contato e Foco (Tons de Azul Coesos) -->
+  <a href="mailto:vytorsantt@gmail.com"><img src="https://img.shields.io/badge/Email-vytorsantt%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/VitorSantos-1"><img src="https://img.shields.io/badge/GitHub-VitorSantos--1-0366D6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<img src="https://img.shields.io/badge/Foco-Analytics%20Engineering%20%26%20BI-0F2744?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Foco" />
 
 </div>
 
@@ -55,14 +55,14 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 
 <div align="center">
   <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /></a>
-  <a href="https://learn.microsoft.com/dax/" target="_blank"><img src="https://img.shields.io/badge/DAX%20%2F%20Power%20Query-2563EB?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" /></a>
+  <a href="https://learn.microsoft.com/dax/" target="_blank"><img src="https://img.shields.io/badge/DAX%20%2F%20Power%20Query-0284C7?style=flat-square&logo=microsoft&logoColor=white" alt="DAX" /></a>
   <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /></a>
-  <a href="https://www.sqlalchemy.org" target="_blank"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /></a>
+  <a href="https://www.sqlalchemy.org" target="_blank"><img src="https://img.shields.io/badge/SQLAlchemy-0366D6?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /></a>
   <a href="https://playwright.dev" target="_blank"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /></a>
   <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" /></a>
   <a href="https://learn.microsoft.com/office/vba/api/overview/excel" target="_blank"><img src="https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" /></a>
   <a href="https://github.com/VitorSantos-1/etl-setorial-datawarehouse" target="_blank"><img src="https://img.shields.io/badge/Star%20Schema%20DW-0284C7?style=flat-square&logo=snowflake&logoColor=white" alt="Data Warehouse" /></a>
-  <a href="https://github.com/VitorSantos-1/price-intelligence-pipeline" target="_blank"><img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" /></a>
+  <a href="https://github.com/VitorSantos-1/price-intelligence-pipeline" target="_blank"><img src="https://img.shields.io/badge/AI%20Agents-0366D6?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" /></a>
 </div>
 
 <br/>
@@ -73,19 +73,19 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 
 <div align="center">
 
-  <!-- Gráfico de Atividade e Contribuições (Plot Anual) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorSantos-1&theme=tokyonight" width="700" alt="Gráfico de Atividade Anual" />
+  <!-- Gráfico de Atividade e Contribuições (Tema GitHub Dark Blue) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorSantos-1&theme=github_dark" width="700" alt="Gráfico de Atividade Anual" />
 
   <br/><br/>
 
   <!-- Painel Duplo: Métricas Gerais & Distribuição por Linguagens -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorSantos-1&theme=tokyonight" width="345" alt="Estatísticas Gerais" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorSantos-1&theme=tokyonight" width="345" alt="Distribuição por Tecnologia" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorSantos-1&theme=github_dark" width="345" alt="Estatísticas Gerais" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorSantos-1&theme=github_dark" width="345" alt="Distribuição por Tecnologia" />
 
   <br/><br/>
 
-  <!-- Consistência & Histórico de Ofensiva -->
-  <img src="https://streak-stats.demolab.com?user=VitorSantos-1&theme=tokyonight&hide_border=true&background=0D1117&stroke=0284C7&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&currStreakLabel=38BDF8&sideLabels=94A3B8" alt="Streak Stats" />
+  <!-- Consistência & Histórico de Ofensiva (Cores Azul / Ciano Neon) -->
+  <img src="https://streak-stats.demolab.com?user=VitorSantos-1&theme=tokyonight&hide_border=true&background=0D1117&stroke=0284C7&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8" alt="Streak Stats" />
 
 </div>
 
@@ -149,7 +149,7 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 
   <br/><br/>
 
-  <!-- Footer Wave Animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,30:1E293B,70:0F172A,100:0D1117&height=110&section=footer" width="100%" alt="Footer Wave" />
+  <!-- Footer Wave Animado (Cyber / Electric Blue) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,30:0284C7,65:0F2744,100:0D1117&height=110&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
