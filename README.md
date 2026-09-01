@@ -57,15 +57,21 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 ### // 03. Métricas & Estatísticas de Código
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorSantos-1&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorSantos-1&theme=tokyonight" alt="Stats Summary" />
-</div>
 
-<br/>
+  <!-- Gráfico de Atividade e Contribuições (Plot Anual) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorSantos-1&theme=tokyonight" width="700" alt="Gráfico de Atividade Anual" />
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorSantos-1&theme=tokyonight" alt="Languages Distribution" />
+  <br/><br/>
+
+  <!-- Painel Duplo: Métricas Gerais & Distribuição por Linguagens -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorSantos-1&theme=tokyonight" width="345" alt="Estatísticas Gerais" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorSantos-1&theme=tokyonight" width="345" alt="Distribuição por Tecnologia" />
+
+  <br/><br/>
+
+  <!-- Consistência & Histórico de Ofensiva -->
   <img src="https://streak-stats.demolab.com?user=VitorSantos-1&theme=tokyonight&hide_border=true&background=0D1117&stroke=0284C7&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&currStreakLabel=38BDF8&sideLabels=94A3B8" alt="Streak Stats" />
+
 </div>
 
 <br/>
