@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Banner Superior Animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0F172A,80:1E293B,100:0284C7&height=220&section=header&text=Jos%C3%A9%20Vitor%20Santos%20Pinheiro&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=An%C3%A1lise%20de%20Dados%20%7C%20Intelig%C3%AAncia%20Comercial%20%7C%20Engenharia%20de%20Dados&descAlignY=58&descSize=16&descColor=38BDF8" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0F172A,80:1E293B,100:0284C7&height=220&section=header&text=Jos%C3%A9%20Vitor%20Santos%20Pinheiro&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Analytics%20Engineer%20%7C%20Business%20Intelligence%20%7C%20Engenharia%20de%20Dados&descAlignY=58&descSize=16&descColor=38BDF8" width="100%" alt="Header Banner" />
 
   <!-- Terminal Typing Animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=650&lines=An%C3%A1lise%20de%20Dados%20%26%20Intelig%C3%AAncia%20Comercial;Varejo%2C%20Supply%20Chain%20%26%20Precifica%C3%A7%C3%A3o;Pipelines%20ETL%2C%20Star%20Schema%20%26%20Power%20BI;Automa%C3%A7%C3%A3o%20com%20Python%2C%20SQL%20%26%20AI%20Agents" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=680&lines=Analytics%20Engineering%20%26%20Modelagem%20Dimensional;Business%20Intelligence%20%26%20Pain%C3%A9is%20Executivos;Esteiras%20ETL%2C%20Data%20Warehouses%20%26%20SQL;Automa%C3%A7%C3%A3o%20de%20Processos%20com%20Python%20%26%20IA;Intelig%C3%AAncia%20Comercial%20%26%20Otimiza%C3%A7%C3%A3o%20de%20Margem" alt="Typing Animation" />
 
   <br/>
 
@@ -15,7 +15,7 @@
   <a href="https://github.com/VitorSantos-1">
     <img src="https://img.shields.io/badge/GitHub-VitorSantos--1-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Especialidade-Varejo%20%26%20Supply%20Chain-0F172A?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Especialidade" />
+  <img src="https://img.shields.io/badge/Foco-Analytics%20Engineering%20%26%20BI-0F172A?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Foco" />
 
 </div>
 
@@ -23,20 +23,48 @@
 
 ---
 
-### // 01. Sobre Mim
+### // 01. Sobre Mim & Visão Estratégica
 
-Trabalho no cruzamento entre visão de negócio no varejo, análise, ciência (quando necessário) e engenharia de dados prática. Transformo processos manuais de compras, comercial e estoque em esteiras de dados automatizadas, de scrapers de monitoramento de preços a Data Warehouses dimensionais e painéis de decisão, sempre traduzindo a técnica em impacto: margem, perda evitada e decisão mais rápida.
+```typescript
+interface DataProfessionalProfile {
+  name: string;
+  role: string;
+  specialization: string[];
+  coreCompetencies: string[];
+  dataStack: string[];
+  contact: string;
+}
 
-- Foco em **varejo e supply chain**: preço, margem, CMV, curva ABC, giro, ruptura, sell-out e dead stock.
-- Da coleta ao painel: **ETL, modelagem dimensional (star schema), SQL, automação e visualização**.
-- Contato: **vytorsantt@gmail.com**
+const vitorSantos: DataProfessionalProfile = {
+  name: "José Vitor Santos Pinheiro",
+  role: "Analytics Engineer & Especialista em Inteligência de Dados",
+  specialization: [
+    "Engenharia e Modelagem de Dados",
+    "Business Intelligence Executivo",
+    "Inteligência Comercial & Precificação",
+    "Automações e Aplicações Analíticas"
+  ],
+  coreCompetencies: [
+    "Construção de Pipelines ETL e Data Warehouses Dimensionais",
+    "Otimização de Margem, Custos e Prevenção de Perdas Operacionais",
+    "Automação de Esteiras de Coleta, Auditoria e Validação de Dados",
+    "Desenvolvimento de Painéis de Decisão e Aplicações com IA"
+  ],
+  dataStack: [
+    "Python, SQL, Star Schema, Power BI, DAX",
+    "PostgreSQL, MySQL, Supabase, FastAPI, Node.js",
+    "Playwright, Selenium, Docker, Git, AI Agents"
+  ],
+  contact: "vytorsantt@gmail.com"
+};
+```
 
-#### // O que eu faço
+Trabalho na convergência entre visão analítica de negócio, ciência de dados aplicada e engenharia prática. Minha atuação foca em transformar processos manuais, operacionais e dispersos em esteiras de dados automatizadas e escaláveis — desde pipelines de ingestão e Data Warehouses dimensionais (*Star Schema*) até dashboards executivos que aceleram decisões e maximizam resultados financeiros (proteção de margem, prevenção de perdas e ganho de escala).
 
-- **Inteligência de preços e concorrência:** automação de coleta, validação e comparação de preços para proteger margem e agilizar a decisão de compra.
-- **Engenharia e modelagem de dados:** pipelines ETL e Data Warehouses (MySQL/PostgreSQL) em star schema, com qualidade de dados e cargas idempotentes.
-- **Business Intelligence:** painéis executivos em Power BI (metas, comercial, CPD, trocas, receita) que respondem às perguntas do dia a dia da operação.
-- **Aplicações de dados:** back-ends (FastAPI, Node.js), um micro-SaaS de dashboards e automações que eliminam trabalho manual recorrente.
+- **Engenharia e Modelagem de Dados:** Estruturação de pipelines ETL com cargas idempotentes, governança, deduplicação e Data Warehouses relacionais (MySQL / PostgreSQL / Supabase).
+- **Business Intelligence & Tomada de Decisão:** Modelagem dimensional e relatórios analíticos em Power BI voltados a responder com clareza aos indicadores operacionais e diretivos.
+- **Inteligência de Mercado & Concorrência:** Automação de scrapers para monitoramento dinâmico de preços, comparação de mercado e auditoria de compras.
+- **Aplicações de Dados & Automações:** Criação de APIs (FastAPI, Node.js), ferramentas full-stack, micro-SaaS analíticos e automações em Python integradas a múltiplos LLMs.
 
 <br/>
 
@@ -84,22 +112,52 @@ Trabalho no cruzamento entre visão de negócio no varejo, análise, ciência (q
 
 ---
 
-### // 04. Projetos em Destaque
+### // 04. Atividade no GitHub & Contribuições
 
-| Projeto | Descrição | Stack | Repositório |
-| :--- | :--- | :--- | :---: |
-| **price-intelligence-pipeline** | Pipeline assíncrono de inteligência de preços da concorrência com resumo por IA (multi-LLM). | `Python` `Playwright` `AI Agents` | [![Acessar](https://img.shields.io/badge/Acessar-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/price-intelligence-pipeline) |
-| **etl-setorial-datawarehouse** | ETL em Python que carrega vendas em um Data Warehouse MySQL modelado em *Star Schema*. | `Python` `Pandas` `SQLAlchemy` `MySQL` | [![Acessar](https://img.shields.io/badge/Acessar-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/etl-setorial-datawarehouse) |
-| **metrika-saas-analytics** | Micro-SaaS de dashboards (Next.js + Prisma) com agente analítico de IA integrado. | `Next.js` `Prisma` `TypeScript` | [![Acessar](https://img.shields.io/badge/Acessar-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/metrika-saas-analytics) |
-| **cotacao-fornecedores-supabase** | Back-end de cotação em PostgreSQL/Supabase com Row Level Security (RLS), triggers e views. | `PostgreSQL` `Supabase` `Python` | [![Acessar](https://img.shields.io/badge/Acessar-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/cotacao-fornecedores-supabase) |
-| **trocas-db-etl-dataquality** | Banco MySQL de trocas com ETL, chaves por hash e rotinas de qualidade de dados. | `MySQL` `Python` `Data Quality` | [![Acessar](https://img.shields.io/badge/Acessar-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/trocas-db-etl-dataquality) |
-| **dashboard-analise-comercial** | Painel executivo comercial em Power BI (metas, Run Rate, YoY, ranking de lojas e compradores). | `Power BI` `DAX` `Data Viz` | [![Acessar](https://img.shields.io/badge/Acessar-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/dashboard-analise-comercial) |
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorSantos-1/VitorSantos-1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorSantos-1/VitorSantos-1/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Graph" src="https://raw.githubusercontent.com/VitorSantos-1/VitorSantos-1/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
 ---
 
-> **Nota de Confidencialidade:** Os repositórios usam dados fictícios para demonstração. Os dados reais das operações em que os projetos foram utilizados são confidenciais e estão protegidos.
+### // 05. Projetos em Destaque
+
+#### Engenharia de Dados, Pipelines & Automações
+
+| Projeto | Descrição Técnica & Impacto | Stack Principal | Repositório |
+| :--- | :--- | :--- | :---: |
+| **price-intelligence-pipeline** | Pipeline assíncrono de inteligência de preços e monitoramento de mercado com scraping e síntese estratégica por múltiplos LLMs. | `Python` `Playwright` `AI Agents` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/price-intelligence-pipeline) |
+| **etl-setorial-datawarehouse** | Pipeline ETL que processa dados transacionais de vendas e abastece um Data Warehouse em modelo dimensional (*Star Schema*). | `Python` `Pandas` `SQLAlchemy` `MySQL` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/etl-setorial-datawarehouse) |
+| **trocas-db-etl-dataquality** | Banco de dados relacional com rotinas de qualidade de dados, chaves por hash, deduplicação e controle de integridade. | `MySQL` `Python` `Data Quality` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/trocas-db-etl-dataquality) |
+
+#### Business Intelligence & Análise Executiva (Power BI)
+
+| Projeto | Descrição Técnica & Impacto | Stack Principal | Repositório |
+| :--- | :--- | :--- | :---: |
+| **dashboard-analise-comercial** | Painel executivo de vendas e performance: acompanhamento de metas, Run Rate, crescimento YoY e curva ABC de produtos. | `Power BI` `DAX` `Data Modeling` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/dashboard-analise-comercial) |
+| **dashboard-receitas-clientes** | Inteligência de receita e perfil de clientes: métricas de ticket médio, faturamento por canal, frequência de compra e cohort. | `Power BI` `DAX` `Customer Analytics` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/dashboard-receitas-clientes) |
+| **dashboard-cpd** | Painel de controle operacional e logística: fluxo de recebimento, acuracidade de inventário e lead time de transferência. | `Power BI` `DAX` `Supply Chain` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/dashboard-cpd) |
+| **dashboard-analise-setorial** | Análise de desempenho por setor/categoria mercadológica, margem de contribuição e oportunidades de mix de produtos. | `Power BI` `DAX` `Category Management` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/dashboard-analise-setorial) |
+
+#### Aplicações de Dados, SaaS & Backend
+
+| Projeto | Descrição Técnica & Impacto | Stack Principal | Repositório |
+| :--- | :--- | :--- | :---: |
+| **metrika-saas-analytics** | Micro-SaaS de dashboards interativos e relatórios analíticos com agente de IA integrado para geração de insights automáticos. | `Next.js` `Prisma` `TypeScript` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/metrika-saas-analytics) |
+| **cotacao-fornecedores-supabase** | Back-end de cotações com PostgreSQL no Supabase, regras de segurança RLS (Row Level Security), triggers e integração Python. | `PostgreSQL` `Supabase` `Python` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/cotacao-fornecedores-supabase) |
+| **analises-excel-varejo** | Modelos analíticos em Excel e VBA para conciliação de NFDs, cálculo de acordos comerciais/verbas e precificação com margem alvo. | `Excel VBA` `Pricing` `Auditoria` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/analises-excel-varejo) |
+
+<br/>
+
+---
+
+> **Nota de Confidencialidade:** Os repositórios utilizam dados fictícios para demonstração de arquitetura, código e modelagem. Os dados reais de faturamento, custos e clientes das operações em que as soluções foram implementadas são estritamente confidenciais e protegidos.
 
 <br/>
 
