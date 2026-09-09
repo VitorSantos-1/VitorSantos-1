@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Superior Animado (Cyber / Electric Blue Gradient) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0F2744,70:0284C7,100:38BDF8&height=220&section=header&text=Jos%C3%A9%20Vitor%20Santos%20Pinheiro&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Analytics%20Engineer%20%7C%20Business%20Intelligence%20%7C%20Engenharia%20de%20Dados&descAlignY=58&descSize=16&descColor=38BDF8" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0F2744,70:0284C7,100:38BDF8&height=220&section=header&text=Jos%C3%A9%20Vitor%20Santos%20Pinheiro&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Engenharia%20de%20Dados&descAlignY=58&descSize=16&descColor=38BDF8" width="100%" alt="Header Banner" />
 
   <!-- Terminal Typing Animado (Electric Cyan) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=680&lines=Analytics%20Engineering%20%26%20Modelagem%20Dimensional;Business%20Intelligence%20%26%20Pain%C3%A9is%20Executivos;Esteiras%20ETL%2C%20Data%20Warehouses%20%26%20SQL;Automa%C3%A7%C3%A3o%20de%20Processos%20com%20Python%20%26%20IA;Intelig%C3%AAncia%20Comercial%20%26%20Otimiza%C3%A7%C3%A3o%20de%20Margem" alt="Typing Animation" />
