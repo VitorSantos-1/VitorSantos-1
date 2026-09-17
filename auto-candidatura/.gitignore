@@ -1,0 +1,17 @@
+# Segredos e dados pessoais — NUNCA versionar
+.env
+perfil.yaml
+cv.md
+cv.txt
+cv.pdf
+
+# Dados gerados
+dados/
+saidas/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/

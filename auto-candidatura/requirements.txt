@@ -1,0 +1,16 @@
+# Coleta de vagas (obrigatório)
+apify-client>=1.7
+
+# Configuração
+PyYAML>=6.0
+python-dotenv>=1.0
+
+# Terminal bonito (opcional, mas recomendado)
+rich>=13.0
+
+# Escrita automática dos e-mails via Claude API (OPCIONAL —
+# só é usado se você colocar ANTHROPIC_API_KEY no .env)
+anthropic>=1.0
+
+# Leitura de CV em PDF (opcional — só se seu CV for .pdf)
+# pypdf>=4.0
