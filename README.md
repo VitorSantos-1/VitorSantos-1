@@ -8,7 +8,7 @@
   <br/><br/>
 
   <!-- Badges de Contato e Foco (Tons de Azul Coesos) -->
-  <a href="mailto:vytorsantt@gmail.com"><img src="https://img.shields.io/badge/Email-vytorsantt%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/VitorSantos-1"><img src="https://img.shields.io/badge/GitHub-VitorSantos--1-0366D6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<img src="https://img.shields.io/badge/Foco-Analytics%20Engineering%20%26%20BI-0F2744?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Foco" />
+  <a href="mailto:vytorsantt@gmail.com"><img src="https://img.shields.io/badge/Email-vytorsantt%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/VitorSantos-1"><img src="https://img.shields.io/badge/GitHub-VitorSantos--1-0366D6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<img src="https://img.shields.io/badge/Foco-Data%20Analytics%20 %26Data%20Science%20%26%20BI-0F2744?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Foco" />
 
 </div>
 
