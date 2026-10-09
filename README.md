@@ -112,7 +112,7 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 
 | Projeto | Descrição Técnica & Impacto | Stack Principal | Repositório |
 | :--- | :--- | :--- | :---: |
-| **price-intelligence-pipeline** | Pipeline assíncrono de inteligência de preços e monitoramento de mercado com scraping e síntese estratégica por múltiplos LLMs. | `Python` `Playwright` `AI Agents` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/price-intelligence-pipeline) |
+| **Price-intelligence-business ** | Pipeline assíncrono de inteligência de preços e monitoramento de mercado com scraping e síntese estratégica por múltiplos LLMs. | `Python` `Playwright` `AI Agents` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/price-intelligence-pipeline) |
 | **etl-setorial-datawarehouse** | Pipeline ETL que processa dados transacionais de vendas e abastece um Data Warehouse em modelo dimensional (*Star Schema*). | `Python` `Pandas` `SQLAlchemy` `MySQL` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/etl-setorial-datawarehouse) |
 | **trocas-db-etl-dataquality** | Banco de dados relacional com rotinas de qualidade de dados, chaves por hash, deduplicação e controle de integridade. | `MySQL` `Python` `Data Quality` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/trocas-db-etl-dataquality) |
 
@@ -121,9 +121,9 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 | Projeto | Descrição Técnica & Impacto | Stack Principal | Repositório |
 | :--- | :--- | :--- | :---: |
 | **Analise_comercial** | Painel executivo de vendas e performance: acompanhamento de metas, Run Rate, crescimento YoY e curva ABC de produtos. | `Power BI` `DAX` `Data Modeling` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/Analise_comercial) |
-| **dashboard-receitas-clientes** | Inteligência de receita e perfil de clientes: métricas de ticket médio, faturamento por canal, frequência de compra e cohort. | `Power BI` `DAX` `Customer Analytics` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/dashboard-receitas-clientes) |
+| **Analise-clientes** | Inteligência de receita e perfil de clientes: métricas de ticket médio, faturamento por canal, frequência de compra e cohort. | `Power BI` `DAX` `Customer Analytics` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/dashboard-receitas-clientes) |
 | **Analise_ocorrencias** | Painel de acompanhamento de operacoes e fluxo logistico do CPD em Power BI. | `Power BI` `DAX` `Supply Chain` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/Analise_ocorrencias) |
-| **Dashboard-analise-setorial** | Análise de desempenho por setor/categoria mercadológica, margem de contribuição e oportunidades de mix de produtos. | `Power BI` `DAX` `Category Management` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/Dashboard-analise-setorial) |
+| **Analise-setorial** | Análise de desempenho por setor/categoria mercadológica, margem de contribuição e oportunidades de mix de produtos. | `Power BI` `DAX` `Category Management` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/Dashboard-analise-setorial) |
 
 #### Aplicações de Dados, SaaS & Backend
 
@@ -132,7 +132,7 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 | **metrika-saas-analytics** | Micro-SaaS de dashboards interativos e relatórios analíticos com agente de IA integrado para geração de insights automáticos. | `Next.js` `Prisma` `TypeScript` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/metrika-saas-analytics) |
 | **Cotacao_projeto** | Back-end de cotações com PostgreSQL no Supabase, regras de segurança RLS (Row Level Security), triggers e integração Python. | `PostgreSQL` `Supabase` `Python` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/Cotacao_projeto) |
 | **planilhas-analise-operacional** | Modelos analíticos em Excel e VBA para conciliação de NFDs, cálculo de acordos comerciais/verbas e precificação com margem alvo. | `Excel VBA` `Pricing` `Auditoria` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/planilhas-analise-operacional) |
-| **Mix-de-ofertas-app** | Sistema full-stack (React + FastAPI + MySQL) para gestão colaborativa de mix de ofertas e encartes com WebSocket. | `React` `FastAPI` `MySQL` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/Mix-de-ofertas-app) |
+| **Sistema-mix-ofertas** | Sistema full-stack (React + FastAPI + MySQL) para gestão colaborativa de mix de ofertas e encartes com WebSocket. | `React` `FastAPI` `MySQL` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/Mix-de-ofertas-app) |
 
 <br/>
 
