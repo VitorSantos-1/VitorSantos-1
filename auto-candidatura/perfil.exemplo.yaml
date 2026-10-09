@@ -1,0 +1,81 @@
+# ═══════════════════════════════════════════════════════════════════════
+#  PERFIL — copie para "perfil.yaml" e edite com os seus dados.
+#  Aqui você define a vaga dos sonhos e como as vagas são pontuadas.
+# ═══════════════════════════════════════════════════════════════════════
+
+# ---- 1) QUEM É VOCÊ ----------------------------------------------------
+perfil:
+  nome: "Seu Nome"
+  cargo_alvo: "Desenvolvedor(a) Full Stack"
+  # Caminho do seu CV em .txt ou .md (ou .pdf, se instalar 'pypdf').
+  # Melhora MUITO a qualificação e os e-mails.
+  cv_arquivo: "cv.exemplo.md"
+  # Uma conquista sua, com número, pra usar no e-mail base:
+  conquista_destaque: "Reduzi em 40% o tempo de carregamento de um app com 50k usuários."
+
+  # Palavras-chave que definem se a vaga combina com você.
+  # (o app procura essas palavras no anúncio, sem diferenciar acento/maiúscula)
+  skills_obrigatorias:
+    - Python
+    - React
+    - SQL
+  skills_desejaveis:
+    - AWS
+    - Docker
+    - TypeScript
+  # Se QUALQUER uma aparecer, a vaga é descartada automaticamente:
+  eliminatorias:
+    - presencial
+    - estágio
+    - PL/SQL sênior
+
+# ---- 2) A VAGA DOS SONHOS (recorte da busca) ---------------------------
+busca:
+  cargo: "desenvolvedor full stack"   # o termo que vai pro scraper
+  senioridade: "pleno"                # júnior / pleno / sênior
+  local: "São Paulo"
+  pais: "BR"
+  aceita_remoto: true
+  max_vagas: 40                       # quantas vagas coletar por busca
+
+# ---- 3) QUALIFICAÇÃO ---------------------------------------------------
+qualificacao:
+  score_minimo: 50   # de 0 a 100; abaixo disso a vaga é descartada
+
+# ---- 4) SAÍDA ----------------------------------------------------------
+saida:
+  pasta_rascunhos: "saidas/rascunhos"
+  max_rascunhos: 15  # quantos e-mails gerar por vez (foque nas melhores!)
+
+# ---- 5) CLAUDE (opcional) ----------------------------------------------
+claude:
+  # Só usado se você colocar ANTHROPIC_API_KEY no .env.
+  # Opus é o mais capaz; troque por "claude-sonnet-5" ou "claude-haiku-4-5"
+  # pra gastar menos por e-mail.
+  modelo: "claude-opus-5"
+
+# ---- 6) APIFY (o coletor) ----------------------------------------------
+# O Apify roda um "Actor" (scraper pronto) e devolve as vagas.
+# O actor abaixo é um exemplo do Indeed. Você pode trocar por outro do
+# Apify Store (ex.: um de LinkedIn Jobs) — veja o README.
+#
+# 'input' é enviado exatamente como está para o actor; os campos entre
+# chaves são substituídos automaticamente:
+#   {query}=busca.cargo · {location}=busca.local · {country}=busca.pais · {rows}=busca.max_vagas
+apify:
+  actor_id: "misceres/indeed-scraper"
+  input:
+    position: "{query}"
+    country: "{country}"
+    location: "{location}"
+    maxItems: "{rows}"
+    parseCompanyDetails: false
+    saveOnlyUniqueItems: true
+
+  # ── Alternativa: LinkedIn Jobs (descomente e ajuste ao actor que escolher)
+  # actor_id: "bebity/linkedin-jobs-scraper"
+  # input:
+  #   title: "{query}"
+  #   location: "{location}"
+  #   rows: "{rows}"
+  #   publishedAt: "r604800"   # últimos 7 dias
