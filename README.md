@@ -112,7 +112,7 @@ Trabalho no cruzamento entre visão analítica de negócio, ciência de dados ap
 
 | Projeto | Descrição Técnica & Impacto | Stack Principal | Repositório |
 | :--- | :--- | :--- | :---: |
-| **Price-intelligence-business ** | Pipeline assíncrono de inteligência de preços e monitoramento de mercado com scraping e síntese estratégica por múltiplos LLMs. | `Python` `Playwright` `AI Agents` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/price-intelligence-pipeline) |
+| **Price-intelligence-business** | Pipeline assíncrono de inteligência de preços e monitoramento de mercado com scraping e síntese estratégica por múltiplos LLMs. | `Python` `Playwright` `AI Agents` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/price-intelligence-pipeline) |
 | **etl-setorial-datawarehouse** | Pipeline ETL que processa dados transacionais de vendas e abastece um Data Warehouse em modelo dimensional (*Star Schema*). | `Python` `Pandas` `SQLAlchemy` `MySQL` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/etl-setorial-datawarehouse) |
 | **trocas-db-etl-dataquality** | Banco de dados relacional com rotinas de qualidade de dados, chaves por hash, deduplicação e controle de integridade. | `MySQL` `Python` `Data Quality` | [![Repositório](https://img.shields.io/badge/Repositório-0284C7?style=flat-square&logo=github&logoColor=white)](https://github.com/VitorSantos-1/trocas-db-etl-dataquality) |
 
