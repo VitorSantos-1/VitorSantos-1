@@ -18,12 +18,28 @@
 
 ### // 01. Sobre Mim & Visão Estratégica
 
-Trabalho no cruzamento entre visão analítica de negócio, ciência de dados aplicada e engenharia prática. Minha atuação foca em transformar processos manuais, operacionais e dispersos em esteiras de dados automatizadas e escaláveis — desde pipelines de ingestão e Data Warehouses dimensionais (*Star Schema*) até dashboards executivos que aceleram decisões e maximizam resultados financeiros (proteção de margem, prevenção de perdas e ganho de escala).
+Comecei na **área administrativa do varejo** — como **Assistente Administrativo** na **Irecê Bijouterias** — e cresci dentro dela até me tornar a referência de **dados e BI** da operação. Hoje sou **Assistente Administrativo Comercial com foco em Dados/BI** no **Supermercado Opção** (promoção interna), transformando rotinas manuais em dados confiáveis e decisões mais rápidas.
 
-- **Engenharia e Modelagem de Dados:** Estruturação de pipelines ETL com cargas idempotentes, governança, deduplicação e Data Warehouses relacionais (MySQL / PostgreSQL / Supabase).
-- **Business Intelligence & Tomada de Decisão:** Modelagem dimensional e relatórios analíticos em Power BI voltados a responder com clareza aos indicadores operacionais e diretivos.
-- **Inteligência de Mercado & Concorrência:** Automação de scrapers para monitoramento dinâmico de preços, comparação de mercado e auditoria de compras.
-- **Aplicações de Dados & Automações:** Criação de APIs (FastAPI, Node.js), ferramentas full-stack, micro-SaaS analíticos e automações em Python integradas a múltiplos LLMs.
+No dia a dia eu construo **pipelines ETL em Python e SQL** que alimentam um **Data Warehouse MySQL** (*Star Schema*); desenvolvo **dashboards em Power BI** acompanhando indicadores comerciais, margem e projeções de **18 setores nas 4 lojas** da rede; e aplico **estatística** (Z-score, desvio padrão) para dimensionar estoque e prever validade.
+
+**Resultados — e como eu os medi:**
+
+- **Horas → minutos** na consolidação de relatórios: comparei o tempo do processo manual antigo com o do fluxo automatizado em Python.
+- **~70% de acurácia** na previsão de vencimentos: confrontei o risco previsto (estatística/regra) com as validades reais observadas no período.
+- **~+30% de eficiência** nas rotinas: estimei pela redução do tempo das tarefas após automatizar controles com Excel/VBA + Apps Script.
+
+Por conta própria, criei um **pipeline de inteligência de preços** que coleta +8 redes concorrentes e resume com **4 LLMs**.
+
+Estou me formando em **Ciência de Dados (Anhanguera)** e me especializo continuamente (Alura, DNC, PM3, DIO, ASIMOV, FGV, Neo4j...). Do administrativo trago **visão de negócio e atenção ao detalhe**; da jornada em dados, **SQL, Python, modelagem e automação**.
+
+> _Nota: os repositórios públicos usam **dados fictícios de demonstração** e os percentuais acima são **estimativas das minhas próprias rotinas/projetos** — números aproximados, mas que sei explicar em detalhe numa conversa._
+
+- **Engenharia e Modelagem de Dados:** pipelines ETL com cargas idempotentes, governança, deduplicação e Data Warehouses.
+- **Business Intelligence & Tomada de Decisão:** modelagem dimensional e relatórios em Power BI voltados a indicadores operacionais e diretivos.
+- **Inteligência de Mercado & Concorrência:** scrapers para monitoramento de preços, comparação de mercado e auditoria de compras.
+- **Aplicações de Dados & Automações:** APIs, ferramentas full-stack, micro-SaaS analíticos e automações em Python com LLMs.
+
+📍 Juazeiro do Norte - CE · Foco: **Analista de Dados / BI**
 
 <br/>
 
